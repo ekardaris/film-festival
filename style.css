@@ -1,3 +1,50 @@
 body {
 
 }
+
+.footer {
+    color: #fff;
+    margin-top: 60px;
+}
+
+.footer .copyright {
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.85);
+    line-height: 50px;
+}
+.footer .copyright p {
+    margin-bottom: 0;
+}
+.footer .social-icons {
+    text-align: right;
+}
+.footer .social-icons a {
+    color: #bbb;
+    margin: 0 4px;
+}
+
+.newsletter-form {
+    max-width: 500px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 30px;
+    padding: 5px 15px;
+    position: relative;
+    overflow: hidden;
+}
+
+.newsletter-form input {
+    width: 100% !important;
+    border: 0;
+    box-shadow: none;
+}
+.newsletter-form button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #e9ecef;
+    padding: 11px 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #343a40;
+}

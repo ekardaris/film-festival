@@ -1,10 +1,8 @@
 body {
-
 }
 
 .footer {
     color: #fff;
-    margin-top: 20px;
 }
 
 .footer .copyright {
@@ -50,15 +48,27 @@ body {
 }
 
 .announcement {
-    margin-top:10px;
     padding: 20px;
-    background: #4CAF50;
+    background: #01395f;
+    color:#ffffff;
  }
 
 
 .registration-form {
-    margin-top: 10px;
     background-color: #01395f;
     padding: 37px;
     color: #fff;
+}
+
+.social-icons{
+  margin-left: 50px;
+}
+
+.contact-form{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+img{
+  width: 100%;
 }
